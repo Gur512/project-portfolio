@@ -137,7 +137,7 @@ button:hover {
     border: 3px #333;
 }
 
-/* About Section */
+
 .about-section {
     background-image: url(../Img/background-01.jpg);
     background-size: cover;
@@ -214,7 +214,7 @@ h2 {
     color: #0000ff;
 }
 
-/* Contact Section */
+
 .contact-section {
     background-color: var(--app-dark-background);
     text-align: center;
@@ -261,7 +261,6 @@ p2 {
     background-color: #555;
 }
 
-/* About Me Section */
 .about-me {
     background-image: url(../Img/background-04.jpg);
     background-size: cover;
@@ -288,7 +287,6 @@ p2 {
     margin-inline: auto;
 }
 
-/* Footer */
 .footer {
     background-color: var(--app-dark-background);
     color: #fff;
