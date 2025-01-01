@@ -4,7 +4,7 @@ Welcome to my **Developer Portfolio Website**!:smiley: This website showcases my
 
 ## :computer: Live Demo
 
-Check out the live version of the website: [My Portfolio](https://github.com/Gur512/portfolio-project.git)
+Check out the live version of the website: [My Portfolio](https://gur512.github.io/project-portfolio/)
 
 ---
 
@@ -38,4 +38,4 @@ If you'd like to run the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Gur512/portfolio-project.git
+   git clone https://github.com/Gur512/project-portfolio.git
